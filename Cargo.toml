@@ -1,0 +1,8 @@
+[package]
+name = "aetherfall"
+version = "0.1.0"
+edition = "2021"
+description = "Original Rust falling-sand sandbox prototype with Terraria-inspired world layering."
+license = "MIT"
+
+[dependencies]
